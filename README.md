@@ -1,2 +1,0 @@
-# WED201c
-WED201c HTML project
